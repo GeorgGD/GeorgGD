@@ -21,4 +21,5 @@
   <summary>:zap: Most Used Languages</summary>
 <img alt="Georgios's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georggd">
 </details>
+
 [portfolio]: http://georgiosdavakos.com/#projects
