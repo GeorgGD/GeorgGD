@@ -3,6 +3,7 @@ I'm Georgios Davakos and I'm a web developer from Greece, but currently located 
 
 ### Quick bits 
 <img align="right" alt="image" src="./coder.jpg" width="500" height="320">
+
 - :writing_hand: You can find my projects here [portfolio]
 - :brain: I'm currently learning Node.js and C++
 - :telescope: Fun fact: I speak 3 languages (Swedish, English, Greek)
