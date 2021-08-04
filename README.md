@@ -1,6 +1,7 @@
-## Hello There, I'm Georgios <img src="./handwave.webp" width="25px">
+## Hello There <img src="./handwave.webp" width="25px">
+I'm Georgios Davakos and I'm a web developer from Greece, but currently located in Sweden. My passion for software lies in making software that enable people.
 
-### I'm a Developer 
+### Quick bits 
 - :writing_hand: You can find my projects here [portfolio]
 - :brain: I'm currently learning Node.js and C++
 - :telescope: Fun fact: I speak 3 languages (Swedish, English, Greek)
@@ -19,7 +20,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-<img alt="Georgios's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georggd">
+  <img alt="Georgios GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georggd">
 </details>
 
 [portfolio]: http://georgiosdavakos.com/#projects
