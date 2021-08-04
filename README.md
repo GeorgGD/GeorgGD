@@ -2,7 +2,7 @@
 I'm Georgios Davakos and I'm a web developer from Greece, but currently located in Sweden. My passion for software lies in making software that enable people.
 
 ### Quick bits 
-<img align="right" alt="image" src="./coder.jpg" width="500" height="320">
+<img align="right" alt="image" src="./coder.jpg" width="400" height="256">
 
 - :writing_hand: You can find my projects here [portfolio]
 - :brain: I'm currently learning Node.js and C++
