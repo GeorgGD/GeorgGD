@@ -1,5 +1,5 @@
 ## Hello There <img src="./handwave.webp" width="25px">
-I'm Georgios Davakos and I'm a web developer from Greece, but currently located in Sweden. My passion for software lies in making software that enable people.
+I'm Georgios Davakos and I'm a web developer from Greece, but currently located in Sweden. My passion for software lies in making software that enables people.
 
 ### Quick bits 
 <img align="right" alt="image" src="./coder.jpg" width="400" height="256">
