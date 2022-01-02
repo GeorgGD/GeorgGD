@@ -5,6 +5,7 @@ I'm Georgios Davakos and I'm a web developer from Greece, but currently located 
 <img align="right" alt="image" src="./coder.jpg" width="400" height="256">
 
 - :writing_hand: You can find my projects here [portfolio]
+- :hammer: Working as a Java Developer at Scila
 - :brain: I'm currently learning Node.js and C++
 - :telescope: Fun fact: I speak 3 languages (Swedish, English, Greek)
 
